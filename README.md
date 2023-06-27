@@ -29,10 +29,12 @@ A quick tutorial on installing ticketing system osTicket.<br />
 
 <h2>Installation Steps</h2>
 
-![image](https://github.com/parkrich/osticket-prereqs/assets/137697108/3edc6941-6c71-4a51-8991-81ffc3b39e09)
-
-
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
+
+![image](https://github.com/parkrich/osticket-prereqs/assets/137697108/3edc6941-6c71-4a51-8991-81ffc3b39e09)
+
+
+
 <br />
