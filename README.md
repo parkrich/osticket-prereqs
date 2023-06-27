@@ -34,6 +34,4 @@ Every prerequisite was downloaded, installed, and configured in order to obtain 
 
 ![image](https://github.com/parkrich/osticket-prereqs/assets/137697108/3edc6941-6c71-4a51-8991-81ffc3b39e09)
 
-
-
 <br />
