@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Steps for Installation & Successful Installation</h1>
+<h1>osTicket - Installation</h1>
 A quick tutorial on installing ticketing system osTicket.<br />
 
 
